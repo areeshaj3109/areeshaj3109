@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me: 
-     **[LinkedIn](https://www.linkedin.com/in/areesha-jiwani/)**, **[Gmail](areeshajiwanii@gmail.com)**, **[Jovian](https://jovian.ai/areeshaj3109/notebooks)**
+     **[LinkedIn](https://www.linkedin.com/in/areesha-jiwani/)**, **[Gmail](areeshajiwanii@gmail.com)**
 
 
 ## 🚀 Languages and Tools:
